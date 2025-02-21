@@ -1,0 +1,27 @@
+{
+    "FirmName": "Pearson Specter Litt",
+    "FirmAddress": "601 Lexington Ave, New York, NY 10022",
+    "FirmPhoneNumber": "212-555-0173",
+    "FirmEmail": "hspecter@pearsonspecterlitt.com",
+    "FirmWebsite": "www.pearsonspecterlitt.com",
+    "FirmLeadPartner": "Harvey Specter",
+    "ClientName": "Deloitte",
+    "ClientAddress": "8 Adelaide St W #200, Toronto, ON M5H 0A9, CA",
+    "ContactName": "Roan Mercury",
+    "ContactPhoneNumber": "416-555-6150",
+    "ContactEmail": "rmercury@deloitte.ca",
+    "Scope": "M&A legal counsel for a small Cloud consulting firm, due diligence review, drafting and negotiating purchase agreements, Contract Review & Vendor Agreements, Litigation or Dispute Resolution Support",
+    "InitialMeetingNotes": "The client emphasized the importance of maintaining confidentiality throughout the acquisition process to prevent market speculation. They expressed concerns about potential intellectual property disputes that may arise post-acquisition and requested a detailed review of existing patents and licensing agreements. Additionally, they want to ensure that all key supplier contracts remain enforceable after the transaction closes.",
+    "BillingType": "Hourly",
+    "PartnerRate": "500",
+    "AssociateRate": "300",
+    "StudentRate": "200",
+    "Frequency": "Monthly",
+    "RetainerAmount": "50000",
+    "LateFeePercent": "10",
+    "Jurisdiction": "Canada",
+    "DisputeResolutionClause": 1,
+    "ConfidentialityClause": 1,
+    "ExistingRelationship": 1
+  }
+  
