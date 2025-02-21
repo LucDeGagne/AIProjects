@@ -138,8 +138,8 @@ async def generate_retainer(data: RetainerRequest):
             review_prompt = f"Please format the following sections into a professional, cohesive, and structured retainer letter. \
                 Ensure proper legal tone, grammar, and logical flow. Add appropriate letter formatting, firm and client details, and headers. \
                 Improve clarity while maintaining a formal and client-friendly approach. Write the content only. \
-                This will be process by Beautiful Soup so write appropriate html format for parsing. Ensure any signature section appears at the end. \
-                Here is some background on the client: {str(results)} \
+                The output must be html. If necessary, adjust the section order but do not lose any sections. \
+                Ensure any signature section appears at the end. Here is some background on the client: {str(results)} \
                 Firm Details: \
                 {data.FirmName} \
                 {data.FirmAddress} \
